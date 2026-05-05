@@ -11,14 +11,22 @@
 
 [📄 Paper](#paper) • [🚀 Quick Start](#quick-start) • [📊 Results](#results) • [📖 Documentation](#documentation)
 
-</div>
+### 📊 Results
+
+<div align="center">
+
+[![Quantitative Results](./assets/Quantitative%20results.png)](./assets/Quantitative%20results.png)
+
+*点击图片查看完整尺寸*
+
+</div></div>
 
 ---
 
 ## 🌟 Highlights
 
 - **Novel Decoupling Framework**: Separates intensity and chromaticity in log-domain for superior enhancement
-- **Color Fidelity**: Preserves natural colors while recovering brightness details  
+- **Color Fidelity**: Preserves natural colors while recovering brightness details
 - **State-of-the-art Performance**: Outperforms existing methods on standard benchmarks
 - **Efficient & Practical**: Fast inference suitable for real-world applications
 - **Easy to Use**: Simple API for integration into existing pipelines
@@ -40,3 +48,4 @@
   journal={arXiv preprint arXiv:2605.02627},
   year={2026}
 }
+```
