@@ -307,8 +307,13 @@ You may also contact the author by email:
 
 ---
 
-<div align="center">
+## 🙏 Acknowledgement
 
+This work was partially inspired by the excellent HVI-CIDNet project. We sincerely acknowledge the authors of HVI-CIDNet for their valuable contribution to the low-light image enhancement community.
+
+- HVI-CIDNet: [https://github.com/Fediory/HVI-CIDNet](https://github.com/Fediory/HVI-CIDNet)
+
+---
 **If this repository is helpful, please consider giving it a star.**
 
 </div>
