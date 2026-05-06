@@ -1,0 +1,8 @@
+torch>=1.9
+torchvision>=0.10
+numpy>=1.21
+Pillow>=8.0
+lpips>=0.1.4
+scikit-image>=0.18
+tqdm>=4.60
+opencv-python>=4.5
