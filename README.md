@@ -1,4 +1,4 @@
-# 📸 ICD: Low-Light Image Enhancement
+# 📸 ICD: Log-Domain Intensity--Chromaticity Decoupling
 
 <div align="center">
 
